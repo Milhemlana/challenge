@@ -1,7 +1,12 @@
-.at-your-service{
-    background-color:darkgray;
+.services{
+    background-color:white;
     text-align:center;
 }
 p{
-    color:teal;
+    color:black;
+}
+.service-one{
+    display:inline-block;
+    width:20%;
+
 }
